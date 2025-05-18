@@ -20,7 +20,7 @@
 Here are a few personal projects I've worked on recently:
 
 - 🤖 **RL Agent for flight path optimization** – Finding optimal flight routes leveraging wind conditions and avoiding obstacles.
-- 🧠 **GPU-accelerated Deep Learning Framework** – Building a Cuda framework for efficient and flexible neural networks from ground up.
+- 🧠 **GPU-accelerated Deep Learning Framework** – Building a competitive Cuda framework for efficient and flexible neural networks from ground up.
 - 🗣️ **AI support automation** – An AI agent (based on a finetuned LLM) that automatically processes support requests for the booking system of my tennis club.
 
 > *Check out my repositories for more!*
