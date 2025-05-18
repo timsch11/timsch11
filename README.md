@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tim!
 
-<!--
-**timsch11/timsch11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an **AI student** passionate about Machine Learning, Deep Learning, and all things related to Artificial Intelligence.  
+🌱 Currently learning: Transformers, Reinforcement Learning, and Model Deployment.  
+🚀 My goal is to contribute to open-source AI projects and research innovative AI solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+
+- **Languages**: Python, C++, Rust, Java  
+- **ML Frameworks**: PyTorch, TensorFlow, Scikit-Learn  
+- **Data Tools**: Pandas, NumPy, Matplotlib, SQL  
+- **Other**: Docker, Git, Linux, VS Code, Jupyter
+
+---
+
+## 📁 Projects
+
+Here are a few things I've worked on recently:
+
+- 🤖 **Neural Style Transfer** – A PyTorch-based project applying artistic style to images.
+- 🧠 **RL Agent for CartPole** – Built a reinforcement learning agent using DQN.
+- 🗣️ **Chatbot with RAG** – An information-aware chatbot using retrieval-augmented generation.
+
+> *Check out my repositories for more!*
+
+---
