@@ -26,3 +26,7 @@ Here are a few personal projects I've worked on recently:
 > *Check out my repositories for more!*
 
 ---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/tim-sch%C3%B6nbrod-615782304)
