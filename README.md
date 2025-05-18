@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠 Core Skills & Tools
 
 - **Languages**: Python, C++, Cuda C, Java, Javascript
 - **ML Frameworks**: PyTorch, Transformers, Scikit-Learn
